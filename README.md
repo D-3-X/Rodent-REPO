@@ -21,6 +21,7 @@ Contributing
 Feel free to fork this repository. If you have suggestions or improvements, please submit a pull request.
 
 Contact
+
 If you have any questions or need further assistance, please contact us through the GitHub repository or open an issue for any inquiries.
 
 ## License Information
