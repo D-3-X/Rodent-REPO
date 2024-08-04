@@ -15,8 +15,6 @@
 #    This template is licensed under the MIT License. For details on the license, follow this link:      #
 #    https://github.com/D-3-X/Rodent-Repo/tree/main/licenses/MIT_License.txt                             #                                                #
 #                                                                                                        # 
-#                                                                                                        #
-#                                                                                                        #                                                                                                      #
 #    Content Table:                                                                                      #
 #                                                                                                        #
 #        1. Security - Sensitive & Configuration Files (Enabled by default)                              #
@@ -28,8 +26,6 @@
 #                                                                                                        #
 #                                                                                                        #
 ##########################################################################################################
-
-
 
 #                   1. SENSITIVE & CONFIGURATIONS
 
