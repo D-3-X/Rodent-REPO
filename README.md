@@ -27,5 +27,5 @@ If you have any questions or need further assistance, please contact us through 
 ## License Information
 
 This repository contains various types of content, each governed by different licenses. Please refer to the information provided
-in the individual sub directories.
+in the individual sub directories or file header text.
 
