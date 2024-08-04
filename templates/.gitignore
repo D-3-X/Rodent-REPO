@@ -1,30 +1,22 @@
 ##########################################################################################################
-#                                                                                                        #
-#                            Rodent Society Universal .gitignore file                                    #
-#                                                                                                        #
-#    This file is designed to efficiently manage what gets tracked in version control across various     #
-#    projects. It focuses on security-sensitive files and system-generated files that typically          #
+#                                                                                                       #
+#                            Rodent Society Universal .gitignore file                                   #
+#                                                                                                       #
+#    This file is designed to efficiently manage what gets tracked in version control across various    #
+#    projects. It focuses on security-sensitive files and system-generated files that typically         #
 #    contribute to unnecessary clutter.                                                                  #
-#                                                                                                        #
-#    Users are encouraged to tailor the settings based on the categories listed below to optimize the    #
-#    setup for their specific development environment.                                                   #
-#													 #
-#                                                                          				 #
-#    Content Table:                                                                                      #
-#													 #
-#        1. Security - Sensitive & Configuration Files (Enabled by default)                              #
-#        2. Operating System Files (Enabled by default)                                                  #
-#        3. Language & Framework Specific Files (Disabled by default)                                    #
-#        4. IDEs & Editors (Disabled by default)                                                         #
-#        5. Temp & Misc Files (Disabled by default)                                                      #
-#        6. Test directories & Files (Disabled by default)            					 #
-#													 #
-#													 #
-#                                  									 #
-#													 #
-#													 #
-#												         #
-#			https://github.com/D-3-X/Rodent-Repo/templates/.gitignore			 #
+#                                                                                                       #
+#    Users are encouraged to tailor the settings based on the categories listed below to optimize the   #
+#    setup for their specific development environment.                                                  #
+#                                                                                                       #
+#    Content Table:                                                                                     #
+#        1. Security - Sensitive & Configuration Files (Enabled by default)                             #
+#        2. Operating System Files (Enabled by default)                                                 #
+#        3. Language & Framework Specific Files (Disabled by default)                                   #
+#        4. IDEs & Editors (Disabled by default)                                                        #
+#        5. Temp & Misc Files (Disabled by default)                                                     #
+#        6. Test directories & Files (Disabled by default)                                              #
+#                                                                                                       #
 ##########################################################################################################
 
 
