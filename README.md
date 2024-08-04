@@ -20,4 +20,4 @@
 
 <div></div>
 <p>Universal .gitignore template. Steal it<a href="https://github.com/D-3-X/Rodent-Repo/templates/.gitignore"> Here</a></p>
-<img src="ttps://github.com/user-attachments/assets/38b7a388-0888-4004-9e43-c2028e76787d" alt="universal .gitignore file">
+<img src="https://github.com/user-attachments/assets/38b7a388-0888-4004-9e43-c2028e76787d" alt="universal .gitignore file">
