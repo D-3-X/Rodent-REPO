@@ -6,13 +6,18 @@ This folder contains a collection of useful templates for various purposes. Temp
 
 #### GitHub Related Templates
 
-**1. .gitignore template for security and flexibility**  
-<p>
-    <img src="https://github.com/user-attachments/assets/d0279d86-af46-460d-a8f8-0f6af5649347" alt="template preview" width="250" style="display:inline-block; vertical-align:middle; margin-right:10px;">
-    
-<p>This template is designed to efficiently manage what gets tracked in version control across various projects, focusing on security-sensitive and system-generated files that typically contribute to unnecessary clutter. 
-    <a href="https://github.com/D-3-X/Rodent-Repo/tree/main/templates/git">Steal it here</a>.</p>
+**1. .gitignore template for security and flexibility**<br>
+    <div>
+        <img src="https://github.com/user-attachments/assets/d0279d86-af46-460d-a8f8-0f6af5649347" alt="template preview"        width="250" style="display:inline-block; vertical-align:middle; margin-left:20px;">
+    <p>
+        This template is designed to efficiently manage what gets tracked in version control across various projects, focusing on          security-sensitive and system-generated files that typically contribute to unnecessary clutter. 
+        <a href="https://github.com/D-3-X/Rodent-Repo/tree/main/templates/git">Steal it here</a>.
+    </p>
+</div>
 
+<br>
+
+<div>
 ## License Information
 
 Each template in this repository may be governed by different licenses. However, the general licensing policy is as follows:
@@ -26,7 +31,7 @@ For detailed license information, please refer to the `licenses` directory in th
 ## Contributing
 
 Feel free to fork this repository and contribute your own templates. If you have suggestions or improvements, please submit a pull request.
-
+</div>
 ## Contact
 
 If you have any questions or need further assistance, please contact us through the GitHub repository or open an issue for any inquiries.
