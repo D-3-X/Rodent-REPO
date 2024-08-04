@@ -1,6 +1,6 @@
 <h1>Templates</h1>
 
-<p>This folder contains a collection of useful templates for various purposes. Templates are organized into subdirectories for better categorization. You are free to use and adapt these templates for your own projects.</p>
+<p>This folder contains a collection of useful templates for various purposes. Templates are organized into subdirectories for better categorization. You are free to use and adapt these templates for your own projects. Suggestions for imorovement are always welcomed</p>
 
 <h3>GitHub Related Templates</h3>
 <div>
