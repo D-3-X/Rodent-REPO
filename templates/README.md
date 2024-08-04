@@ -8,7 +8,7 @@
     <br>
     <img src="https://github.com/user-attachments/assets/58abdc65-829d-4ff4-83f6-0d36668c4ed5" alt="template preview" width="150" style="display:inline-block; vertical-align:middle; margin-left:20px;">
     <p>
-        This template is designed to efficiently manage what gets tracked in version control across various projects, focusing on security-sensitive and system-generated files that typically contribute to unnecessary clutter. 
+        This template is designed to efficiently manage what gets tracked in version control across various projects, focusing on security and unnecessary clutter. 
         <a href="https://github.com/D-3-X/Rodent-REPO/blob/main/templates/git/.gitignore">Steal it here</a>.
     </p>
 </div>
