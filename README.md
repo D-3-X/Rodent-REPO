@@ -18,7 +18,7 @@ Development Notice; this Repository is under construction content may not work, 
 
 Contributing
 
-Feel free to fork this repository. If you have suggestions or improvements, please submit a pull request.
+Feel free to fork this repository. If you have suggestions or improvements, please submit a pull request. Or pitch it to us directly.
 
 Contact
 
