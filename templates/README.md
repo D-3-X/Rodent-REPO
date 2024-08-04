@@ -4,7 +4,7 @@ This folder contains a collection of useful templates for various purposes. Temp
 
 <h3>GitHub Related Templates</h3>
 <div>
-<b>1. .gitignore template for security and flexibility</b>
+<b>1. gitignore template for security and flexibility</b>
     <br>
         <img src="https://github.com/user-attachments/assets/58abdc65-829d-4ff4-83f6-0d36668c4ed5" alt="template preview" width="150" style="display:inline-block; vertical-align:middle; margin-left:20px;">
     <p>
