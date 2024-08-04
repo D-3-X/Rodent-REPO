@@ -19,5 +19,6 @@
 <h5>Content Preview</h5>
 
 <div></div>
-<p>(Rodent Society Swizzknife gitignore file)</p>
+<p>(.gitignore template)</p>
+<a href="google.com">test</a>
 <img src="https://github.com/user-attachments/assets/297856fe-ae2d-4eea-92d0-8318096566b4" alt="Description of what the image represents">
