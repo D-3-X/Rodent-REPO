@@ -1,21 +1,23 @@
 # Templates
 
-This folder contains a collection of useful templates for various purposes. You are free to use and adapt these templates for your own projects.
+This folder contains a collection of useful templates for various purposes. Templates are organized into subdirectories for better categorization. You are free to use and adapt these templates for your own projects.
 
-## Available Templates
+## Available Templates Categorized
 
-### Universal .gitignore Template
+#### GitHub Related Templates
 
-<p>.gitignore template. Steal it <a href="https://github.com/D-3-X/Rodent-Repo/blob/main/templates/.gitignore">here</a>.</p>
-<img src="https://github.com/user-attachments/assets/d0279d86-af46-460d-a8f8-0f6af5649347" alt="universal .gitignore file">
-
-This template is designed to efficiently manage what gets tracked in version control across various projects, focusing on security-sensitive and system-generated files that typically contribute to unnecessary clutter.
+**1. .gitignore template for security and flexibility**  
+<p>
+    <img src="https://github.com/user-attachments/assets/d0279d86-af46-460d-a8f8-0f6af5649347" alt="template preview" width="150" style="display:inline-block; vertical-align:middle; margin-right:10px;">
+    This template is designed to efficiently manage what gets tracked in version control across various projects, focusing on security-sensitive and system-generated files that typically contribute to unnecessary clutter. 
+    <a href="https://github.com/D-3-X/Rodent-Repo/tree/main/templates/git">Steal it here</a>.
+</p>
 
 ## License Information
 
-Each template in this repository may be governed by different licenses. Below is a summary of how licenses are handled:
+Each template in this repository may be governed by different licenses. However, the general licensing policy is as follows:
 
-- **All templates in the [templates directory](https://github.com/D-3-X/Rodent-Repo/tree/main/templates)** are licensed under the [MIT License](https://github.com/D-3-X/Rodent-Repo/licenses/MIT_License.txt), unless otherwise specified.
+- **All templates in the [templates directory](https://github.com/D-3-X/Rodent-Repo/tree/main/templates)** and its subdirectories are licensed under the [MIT License](https://github.com/D-3-X/Rodent-Repo/licenses/MIT_License.txt), unless otherwise specified within the template itself.
 
 For detailed license information, please refer to the `licenses` directory in this repository:
 
@@ -28,5 +30,3 @@ Feel free to fork this repository and contribute your own templates. If you have
 ## Contact
 
 If you have any questions or need further assistance, please contact us through the GitHub repository or open an issue for any inquiries.
-
-Feel free to adjust any details or add more specific instructions depending on the contents and structure of your repository.
