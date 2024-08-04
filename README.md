@@ -19,5 +19,5 @@
 <h5>Content Preview</h5>
 
 <div></div>
-<a href="https://github.com/D-3-X/Rodent-Repo/templates/.gitignore">Link</a>Universal .gitignore template:
-<img src="https://github.com/user-attachments/assets/297856fe-ae2d-4eea-92d0-8318096566b4" alt="Description of what the image represents">
+<p>Universal .gitignore template. Steal it<a href="https://github.com/D-3-X/Rodent-Repo/templates/.gitignore"> Here</a></p>
+<img src="ttps://github.com/user-attachments/assets/38b7a388-0888-4004-9e43-c2028e76787d" alt="universal .gitignore file">
