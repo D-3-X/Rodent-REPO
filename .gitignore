@@ -1,28 +1,38 @@
 ##########################################################################################################
-#										       	                 #
-#										       	                 #
-#                           	Rodent Society SwizzKnife .gitignore file	       	                 #
-#										       	                 #
-#           this file contains a wide range of categorised sections aimed at being easy to use  	 #
-#	    in all projects with minimal modifications and time needed. by uncommenting relevant  	 #
-#           entries it's easy to tailor it for each project as needed. Added security which from  	 #
-#	    experience have been added to keep everyone safe you can of course enable disable	 	 #
-#           these but we do not recommend doing so.       	 		                         #
-#										       	                 #
-#										       	                 #
-#                                             Content Table			       	                 #
-#										       	                 #
-#                              1. Security - Sensitive & Configuration Files                    	 #
-#                              2. Operating System Files			       	                 #
-#                              3. Language & Framework Specific Files		       	 	         #
-#                              4. IDEs & Editors				       	                 #
-#                              5. Temp & Misc Files				       	 	         #
-#                              6. Test directories & Files			       	 	         #
-#										       	                 #
-#										       	                 #
-#					      Default Enabled			       	 	         #
-#										       	                 #
-#										       	                 #
+#                                                                                                       #
+#                            Rodent Society SwizzKnife .gitignore file                                  #
+#                                                                                                       #
+#    Welcome to the Rodent Society SwizzKnife .gitignore file. This file is crafted to serve as a       #
+#    versatile tool, adaptable to a wide range of projects. It's designed to efficiently manage what    #
+#    gets tracked in version control by providing a broad spectrum of predefined sections tailored to   #
+#    various needs within the development environment.                                                  #
+#                                                                                                       #
+#    We've structured this file to come with essential sections enabled by default, ensuring the        #
+#    security of your repositories and maintaining a clean project environment. These active sections   #
+#    include settings to ignore sensitive credentials, operating system-generated files, and            #
+#    temporary or miscellaneous files typically unnecessary in version control.                         #
+#                                                                                                       #
+#    Some sections are initially disabled to allow for customization based on your specific project     #
+#    needs. These include language-specific configurations and IDE settings. This flexible setup        #
+#    empowers you to activate or deactivate sections as your development tools and languages demand.    #
+#                                                                                                       #
+#    We recommend maintaining the default enabled settings to safeguard sensitive data and prevent      #
+#    clutter. However, you're encouraged to modify these settings by commenting or uncommenting         #
+#    entries to align with your project’s unique requirements.                                          #
+#                                                                                                       #
+#    Content Table:                                                                                     #
+#        1. Security - Sensitive & Configuration Files                                                  #
+#        2. Operating System Files                                                                      #
+#        3. Language & Framework Specific Files                                                         #
+#        4. IDEs & Editors                                                                              #
+#        5. Temp & Misc Files                                                                           #
+#        6. Test directories & Files                                                                    #
+#                                                                                                       #
+#    Default Settings Overview:                                                                         #
+#    - Enabled: Sections that protect your project and reduce clutter are activated by default.         #
+#    - Disabled: Language and IDE specific settings remain inactive and are available for               #
+#      customization as needed.                                                                         #
+#                                                                                                       #
 ##########################################################################################################
 
 
