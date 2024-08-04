@@ -1,0 +1,197 @@
+##########################################################################################################
+#										       	                 #
+#										       	                 #
+#                           	Rodent Society SwizzKnife .gitignore file	       	                 #
+#										       	                 #
+#           this file contains a wide range of categorised sections aimed at being easy to use  	 #
+#	    in all projects with minimal modifications and time needed. by uncommenting relevant  	 #
+#           entries it's easy to tailor it for each project as needed. Added security which from  	 #
+#	    experience have been added to keep everyone safe you can of course enable disable	 	 #
+#           these but we do not recommend doing so.       	 		                         #
+#										       	                 #
+#										       	                 #
+#                                             Content Table			       	                 #
+#										       	                 #
+#                              1. Security - Sensitive & Configuration Files                    	 #
+#                              2. Operating System Files			       	                 #
+#                              3. Language & Framework Specific Files		       	 	         #
+#                              4. IDEs & Editors				       	                 #
+#                              5. Temp & Misc Files				       	 	         #
+#                              6. Test directories & Files			       	 	         #
+#										       	                 #
+#										       	                 #
+#					      Default Enabled			       	 	         #
+#										       	                 #
+#										       	                 #
+##########################################################################################################
+
+
+#---------------------------------------------------------------------------------------------------------#
+#					1. SENSITIVE & CONFIGURATIONS		                          #
+#---------------------------------------------------------------------------------------------------------#
+
+# Prevent sensitive information such as passwords, API keys, and tokens from being committed to version control.
+
+password.*                  # Generic pattern for password files
+psswd.*                     # Abbreviated form for password files
+credentials.*               # Files containing credentials
+secret.*                    # Files labeled as containing secrets
+api_key.*                   # Files specifically for API keys
+token.*                     # Files containing tokens or authentication data
+
+
+# Avoid committing SSL/TLS certificates and keys to ensure secure communications remain protected.
+
+*.pem                       # PEM format files, contains certificates or private keys
+*.key                       # General key files, potentially private keys
+*.cert                      # Certificate files in .cert format
+*.crt                       # Certificate files in .crt format
+*.csr                       # Certificate signing request files
+
+
+# SSH keys should never be exposed to public repositories; ignoring them protects remote servers.
+
+id_rsa                      # Default private key file name for SSH
+id_rsa.pub                  # Default public key file name for SSH
+id_ecdsa                    # ECDSA private key file name for SSH
+id_ecdsa.pub                # ECDSA public key file name for SSH
+id_ed25519                  # EdDSA private key file name for SSH
+id_ed25519.pub              # EdDSA public key file name for SSH
+.ssh/config                 # SSH configuration file
+
+
+# Database connection files often contain credentials or sensitive connection strings.
+
+*.dsn                       # Data source names for ODBC connection
+database.ini                # Common database configuration file
+db_conn.*                   # Generic database connection files
+connection_string.*         # Files containing database connection strings
+
+
+# Ignore environment configuration files which may include sensitive data like API keys or database passwords.
+
+.env                        # Main environment variable file
+.env.local                  # Local environment overrides
+.env.development.local      # Development-specific local overrides
+.env.test.local             # Test-specific local overrides
+.env.production.local       # Production-specific local overrides
+
+
+# Backups and data exports can contain sensitive or large amounts of data, not suitable for version control.
+
+*.backup                    # Generic backup files
+*.bak                       # Another generic backup file pattern
+*.sql                       # SQL script files, potentially containing sensitive data
+*.dump                      # Database dump files
+
+
+# Other files that might contain sensitive information or credentials.
+
+*.vault                     # Files used by HashiCorp Vault, contains secrets
+.git-credentials            # Git credentials storage file
+
+
+
+#---------------------------------------------------------------------------------------------------------#
+#					 2. OS SYSTEM				          	          #
+#---------------------------------------------------------------------------------------------------------#
+
+# Common files created by operating systems that do not need to be included in version control.
+
+.DS_Store                   # macOS desktop services store
+.AppleDouble                # macOS forked data storage
+.LSOverride                 # macOS file to override Library settings
+Thumbs.db                   # Windows image file cache
+*.swp                       # Swap files for Vim text editor
+
+
+
+
+#---------------------------------------------------------------------------------------------------------#
+#					 3. LANGUAGE & FRAMEWORK		                          #
+#---------------------------------------------------------------------------------------------------------#
+
+# Python
+
+#__pycache__/                # Python 3 bytecode cache
+#*.py[cod]                   # Python bytecode files in different formats
+#.venv/                      # Python virtual environments directory
+
+
+# Node.js
+
+#node_modules/               # Node.js modules directory
+#package-lock.json           # Node.js specific dependencies lock file
+#npm-debug.log               # Log file for npm
+#yarn-error.log              # Log file for Yarn
+
+
+# Java
+
+#target/                     # Target directory used by Maven
+#*.jar                       # Java ARchive files
+
+
+# C and C++
+
+#*.o                         # Object files generated by C/C++
+#*.so                        # Shared object libraries for Unix/Linux
+
+
+
+
+#---------------------------------------------------------------------------------------------------------#
+#					 4. IDE's & EDITORS 			          	          #
+#---------------------------------------------------------------------------------------------------------#
+
+# Ignore configuration files created by various Integrated Development Environments.
+
+#.idea/                      # Project settings and configuration for JetBrains IDEs
+#.vscode/                    # Project settings and configuration for Visual Studio Code
+#*.sublime-workspace         # Sublime Text project workspace
+#*.sublime-project           # Sublime Text project settings
+
+
+
+
+#---------------------------------------------------------------------------------------------------------#
+#					 5. TEMP & MISC				          		  #
+#---------------------------------------------------------------------------------------------------------#
+
+# Temporary and cache files generated during development and compilation that do not need to be version controlled.
+
+*.tmp                        # Temporary files
+*.temp                       # Another pattern for temporary files
+*.cache                      # Cache files
+.cache/                      # Directory for cache files
+.temp/                      # Directory for temporary files
+tmp/                         # Another directory for temporary files
+temp/                        # Another directory for temporary files
+
+
+# Build output directories
+
+dist/                        # Distribution directory, commonly used for builds
+build/                       # Build directory, commonly used for compiled files
+public/                      # Public directory for web assets
+/public/*                    # Ignore contents of public folder
+!/public/.gitkeep            # Exclude .gitkeep to maintain folder structure
+
+
+# Deployment scripts
+
+run.sh                       # Custom script for running applications
+update.sh                    # Custom script for updating applications
+
+
+# Miscellaneous files
+
+*.map                        # Source map files for JavaScript debugging
+*.manifest                   # Manifest files for cache or network requests
+*.bak                        # Generic backup files
+*.bak.*                      # More generic backup files
+*.old                        # Files marked as old versions
+*.class                      # Redundant entry, already covered
+sketch.*                     # Sketch files for design or drafts
+notes.txt                    # Notes in text format
+*.md                         # Markdown documentation files
