@@ -1,4 +1,4 @@
-<h3 color="red">This repo is being build content may not work/exist untill officially done</h3>
+<h3 color="red">This repo is being build content may not work/exist untill officially done current content, layout etc may change.</h3>
 <h2>Rodent-Repo Being</h2>
 <p>
     (make grey) This repository serves as a centralized place for the Rodent Society to share resources.
@@ -8,9 +8,11 @@
 <h4>(hyperlinks)Content Table</h4>
 
 <blockquote>
-    ...<br>
-    ...
-    ...
+    1. Rodent Society Community & Website<br>
+    2. RsLogMod<br>
+    3. KodaAi<br>
+    4. SqueakSecure<br>
+    5. Free & Handy Templates
 </blockquote>
 (hr)
 <h5>Content Preview and Descriptions</h5>
