@@ -1,4 +1,4 @@
-<h3 color="red">This repo is being built; content may not work/exist until officially done. Current content, layout, etc., may change.</h3>
+Development Notice; this Repository is under construction content may not work, exist, or may change.
 <h2>Rodent-Repo</h2>
 <p style="color: grey;">
     This repository serves as a centralized place for the Rodent Society to share resources.
@@ -8,12 +8,11 @@
 <h4>Content Table</h4>
 
 <blockquote>
-    <a href="#rodent-society-community--website">1. Rodent Society Community & Website</a><br>
-    <a href="#rslogmod">2. RsLogMod</a><br>
-    <a href="#kodaai">3. KodaAi</a><br>
-    <a href="#squeaksecure">4. SqueakSecure</a><br>
-    <a href="https://github.com/D-3-X/Rodent-Repo/tree/main/templates">5. Free & Handy Templates</a><br>
-    <a href="#content-showcasing">6. Content Showcasing</a>
+    - <a href="#rodent-society-community--website">Rodent Society Community & Website </a> (not added) <br>
+    - <a href="https://github.com/D-3-X/Rodent-Repo/tree/main/templates">Free & Handy Templates </a><br>
+    - <a href="#rslogmod"> RsLogMod Tool </a> (not added) <br>
+    - <a href="#kodaai"> KodaAi Showcasing </a> (not added) <br>
+    - <a href="#squeaksecure">SqueakSecure Showcasing</a> (not added) <br>
 </blockquote>
 <hr>
 <h5>Content Preview</h5>
