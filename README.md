@@ -23,3 +23,13 @@
 <div id="kodaai">Insights into KodaAi...</div>
 <div id="squeaksecure">Overview of SqueakSecure...</div>
 <div id="content-showcasing">Examples of Content Showcasing...</div>
+
+
+## License Information
+
+This repository contains various types of content, each governed by different licenses. Please refer to the following links for detailed license information:
+
+- **Universal .gitignore Template: This template is licensed under the [MIT License](licenses/MIT_LICENSE.md)  
+
+For additional details, please explore the `licenses` directory directly in this repository.
+
