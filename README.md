@@ -13,7 +13,7 @@
     <a href="#kodaai">3. KodaAi</a><br>
     <a href="#squeaksecure">4. SqueakSecure</a><br>
     <a href="#free--handy-templates">5. Free & Handy Templates</a><br>
-    <a href="#content-showcasing">6. Content Showcasing</a>
+    <a href="#Free & Handy Templates">6. Content Showcasing</a>
 </blockquote>
 <hr>
 <h5>Content Preview</h5>
