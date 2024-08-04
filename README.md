@@ -15,14 +15,6 @@ Development Notice; this Repository is under construction content may not work, 
     - <a href="#squeaksecure">SqueakSecure Showcasing</a> (not added) <br>
 </blockquote>
 <hr>
-<h5>Content Preview</h5>
-
-<div id="rodent-society-community--website">Details about Rodent Society Community & Website...</div>
-<div id="rslogmod">Information on RsLogMod...</div>
-<div id="kodaai">Insights into KodaAi...</div>
-<div id="squeaksecure">Overview of SqueakSecure...</div>
-<div id="content-showcasing">Examples of Content Showcasing...</div>
-
 
 ## License Information
 
