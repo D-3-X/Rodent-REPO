@@ -27,9 +27,3 @@
 <ul>
     <li><a href="https://github.com/D-3-X/Rodent-Repo/tree/main/licenses/MIT_License.txt">MIT License</a></li>
 </ul>
-
-<h3>Contributing</h3>
-<p>Feel free to fork this repository and contribute your own templates. If you have suggestions or improvements, please submit a pull request.</p>
-
-<h3>Contact</h3>
-<p>If you have any questions or need further assistance, please contact us through the GitHub repository or open an issue for any inquiries.</p>
