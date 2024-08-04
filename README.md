@@ -13,9 +13,10 @@
     3. KodaAi<br>
     4. SqueakSecure<br>
     5. Free & Handy Templates
+    6. Content Preview & Showcasing
 </blockquote>
 (hr)
-<h5>Content Preview and Descriptions</h5>
+<h5>Content Preview</h5>
 
 <div></div>
 <p>(Rodent Society Swizzknife gitignore file)</p>
