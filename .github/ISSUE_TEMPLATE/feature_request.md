@@ -2,7 +2,7 @@
 name: Feature request
 about: Pitch Ideas
 title: "[feature]"
-labels: ''
+labels: 'request'
 assignees: D-3-X
 
 ---
