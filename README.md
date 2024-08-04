@@ -12,8 +12,8 @@
     2. RsLogMod<br>
     3. KodaAi<br>
     4. SqueakSecure<br>
-    5. Free & Handy Templates
-    6. Content Preview & Showcasing
+    5. Free & Handy Templates<br>
+    6. Content Showcasing
 </blockquote>
 (hr)
 <h5>Content Preview</h5>
