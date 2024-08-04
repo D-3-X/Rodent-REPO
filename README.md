@@ -27,10 +27,6 @@
 
 ## License Information
 
-This repository contains various types of content, each governed by different licenses. Please refer to the following links for detailed license information:
-
-- All templates found in the [templates directory](https://github.com/D-3-X/Rodent-Repo/tree/main/templates) are licensed under the [MIT License](licenses/MIT_LICENSE.md).
-
-For additional details, please explore the `licenses` directory directly in this repository.
-
+This repository contains various types of content, each governed by different licenses. Please refer to the information provided
+in the individual sub directories.
 
