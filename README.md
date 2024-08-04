@@ -16,6 +16,13 @@ Development Notice; this Repository is under construction content may not work, 
 </blockquote>
 <hr>
 
+Contributing
+
+Feel free to fork this repository. If you have suggestions or improvements, please submit a pull request.
+
+Contact
+If you have any questions or need further assistance, please contact us through the GitHub repository or open an issue for any inquiries.
+
 ## License Information
 
 This repository contains various types of content, each governed by different licenses. Please refer to the information provided
