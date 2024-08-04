@@ -13,16 +13,16 @@
 #    https://github.com/D-3-X/Rodent-Repo/tree/main/templates                                            #
 #                                                                                                        #
 #    This template is licensed under the MIT License. For details on the license, follow this link:      #
-#    https://github.com/D-3-X/Rodent-Repo/tree/main/licenses/MIT_License.txt                             #                                                #
+#    https://github.com/D-3-X/Rodent-Repo/tree/main/licenses/MIT_License.txt                             #
 #                                                                                                        # 
 #    Content Table:                                                                                      #
 #                                                                                                        #
-#        1. Security - Sensitive & Configuration Files (Enabled by default)                              #
-#        2. Operating System Files (Enabled by default)                                                  #
-#        3. Language & Framework Specific Files (Disabled by default)                                    #
-#        4. IDEs & Editors (Disabled by default)                                                         #
-#        5. Temp & Misc Files (Disabled by default)                                                      #
-#        6. Test directories & Files (Disabled by default)                                               #
+#        1. Security - Sensitive & Configuration Files  (Enabled by default)                             #
+#        2. Operating System Files                      (Enabled by default)                             #
+#        3. Language & Framework Specific Files         (Disabled by default)                            #
+#        4. IDEs & Editors                              (Disabled by default)                            #
+#        5. Temp & Misc Files                           (Disabled by default)                            #
+#        6. Test directories & Files                    (Disabled by default)                            #
 #                                                                                                        #
 #                                                                                                        #
 ##########################################################################################################
