@@ -1,9 +1,9 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+title: '[Bud Report]'
+labels: 'bug'
+assignees: 'D-3-X'
 
 ---
 
