@@ -15,11 +15,11 @@ This template is designed to efficiently manage what gets tracked in version con
 
 Each template in this repository may be governed by different licenses. Below is a summary of how licenses are handled:
 
-- **All templates in the [templates directory](https://github.com/D-3-X/Rodent-Repo/tree/main/templates)** are licensed under the [MIT License](https://github.com/D-3-X/Rodent-Repo/licenses/MIT_LICENSE.txt), unless otherwise specified.
+- **All templates in the [templates directory](https://github.com/D-3-X/Rodent-Repo/tree/main/templates)** are licensed under the [MIT License](https://github.com/D-3-X/Rodent-Repo/licenses/MIT_License.txt), unless otherwise specified.
 
 For detailed license information, please refer to the `licenses` directory in this repository:
 
-- [MIT License](https://github.com/D-3-X/Rodent-Repo/licenses/MIT_LICENSE.txt)
+- [MIT License](https://github.com/D-3-X/Rodent-Repo/licenses/MIT_License.txt)
 
 ## Contributing
 
