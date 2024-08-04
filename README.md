@@ -29,7 +29,8 @@
 
 This repository contains various types of content, each governed by different licenses. Please refer to the following links for detailed license information:
 
-- **Universal .gitignore Template: This template is licensed under the [MIT License](licenses/MIT_LICENSE.md)  
+- All templates found in the [templates directory](https://github.com/D-3-X/Rodent-Repo/tree/main/templates) are licensed under the [MIT License](licenses/MIT_LICENSE.md).
 
 For additional details, please explore the `licenses` directory directly in this repository.
+
 
