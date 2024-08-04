@@ -22,11 +22,11 @@ Click the pictures to see the preview image better
 
 Each template in this repository may be governed by different licenses. However, the general licensing policy is as follows:
 
-- **All templates in the [templates directory](https://github.com/D-3-X/Rodent-Repo/tree/main/templates)** and its subdirectories are licensed under the [MIT License](https://github.com/D-3-X/Rodent-Repo/licenses/MIT_License.txt), unless otherwise specified within the template itself.
+- **All templates in this directory and its subdirectories are licensed under the [MIT License](https://github.com/D-3-X/Rodent-Repo/tree/main/licenses/MIT_License.txt), unless otherwise specified within the template itself.
 
 For detailed license information, please refer to the `licenses` directory in this repository:
 
-- [MIT License](https://github.com/D-3-X/Rodent-Repo/licenses/MIT_License.txt)
+- [MIT License](https://github.com/D-3-X/Rodent-Repo/tree/main/licenses/MIT_License.txt)
 
 ## Contributing
 
