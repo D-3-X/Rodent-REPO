@@ -8,10 +8,10 @@ This folder contains a collection of useful templates for various purposes. Temp
 
 **1. .gitignore template for security and flexibility**  
 <p>
-    <img src="https://github.com/user-attachments/assets/d0279d86-af46-460d-a8f8-0f6af5649347" alt="template preview" width="150" style="display:inline-block; vertical-align:middle; margin-right:10px;">
-    This template is designed to efficiently manage what gets tracked in version control across various projects, focusing on security-sensitive and system-generated files that typically contribute to unnecessary clutter. 
-    <a href="https://github.com/D-3-X/Rodent-Repo/tree/main/templates/git">Steal it here</a>.
-</p>
+    <img src="https://github.com/user-attachments/assets/d0279d86-af46-460d-a8f8-0f6af5649347" alt="template preview" width="250" style="display:inline-block; vertical-align:middle; margin-right:10px;">
+    
+<p>This template is designed to efficiently manage what gets tracked in version control across various projects, focusing on security-sensitive and system-generated files that typically contribute to unnecessary clutter. 
+    <a href="https://github.com/D-3-X/Rodent-Repo/tree/main/templates/git">Steal it here</a>.</p>
 
 ## License Information
 
