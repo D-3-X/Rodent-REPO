@@ -1,4 +1,4 @@
-<h3 color="red">This repo is being build content may not work untill officially done</h3>
+<h3 color="red">This repo is being build content may not work/exist untill officially done</h3>
 <h2>Rodent-Repo Being</h2>
 <p>
     (make grey) This repository serves as a centralized place for the Rodent Society to share resources.
