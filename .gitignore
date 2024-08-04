@@ -5,7 +5,7 @@
 #    This file is designed to efficiently manage what gets tracked in version control across various     #
 #    projects. It focuses on security-sensitive files and system-generated files that typically          #
 #    contribute to unnecessary clutter.                                                                  #
-#                                                                                                        #                                                                             #
+#                                                                                                        #
 #    Users are encouraged to tailor the settings based on the categories listed below to optimize the    #
 #    setup for their specific development environment.                                                   #
 #                                                                                                        #
@@ -17,142 +17,14 @@
 #                                                                                                        # 
 #    Content Table:                                                                                      #
 #                                                                                                        #
-#        1. Security - Sensitive & Configuration Files  (Enabled by default)                             #
-#        2. Operating System Files                      (Enabled by default)                             #
-#        3. Language & Framework Specific Files         (Disabled by default)                            #
-#        4. IDEs & Editors                              (Disabled by default)                            #
-#        5. Temp & Misc Files                           (Disabled by default)                            #
-#        6. Test directories & Files                    (Disabled by default)                            #
-#                                                                                                        #
+#        1. Security - Sensitive & Configuration Files  Enabled by default                               #
+#        2. Operating System Files                      Enabled by default                               #
+#        3. Language & Framework Specific Files         Disabled by default                              #
+#        4. IDEs & Editors                              Disabled by default                              #
+#        5. Temp & Misc Files                           Disabled by default                              #
+#        6. Test directories & Files                    Disabled by default                              #
 #                                                                                                        #
 ##########################################################################################################
-
-#                   1. SENSITIVE & CONFIGURATIONS
-
-# Key and Configuration Files
-password.*                  # Password files (Enabled by default)
-psswd.*                     # Abbreviated password files (Enabled by default)
-credentials.*               # Credential storage (Enabled by default)
-secret.*                    # Secret keys (Enabled by default)
-api_key.*                   # API keys (Enabled by default)
-token.*                     # Authentication tokens (Enabled by default)
-
-# Certificate Files
-*.pem                       # PEM certificate files (Enabled by default)
-*.key                       # Key files (Enabled by default)
-*.cert                      # CERT certificate files (Enabled by default)
-*.crt                       # CRT certificate files (Enabled by default)
-*.csr                       # CSR certificate files (Enabled by default)
-
-# SSH Configuration
-id_rsa                      # SSH private keys (Enabled by default)
-id_rsa.pub                  # SSH public keys (Enabled by default)
-.ssh/config                 # SSH config files (Enabled by default)
-
-# Database Configuration
-*.dsn                       # Data source names (Enabled by default)
-database.ini                # Database configuration files (Enabled by default)
-db_conn.*                   # Database connection files (Enabled by default)
-connection_string.*         # DB connection strings (Enabled by default)
-
-# Environment Configuration
-.env                        # Environment variable files (Enabled by default)
-.env.local                  # Local environment variables (Enabled by default)
-.env.development.local      # Development environment variables (Enabled by default)
-.env.test.local             # Test environment variables (Enabled by default)
-.env.production.local       # Production environment variables (Enabled by default)
-
-# Backup Files
-*.backup                    # Generic backup files (Enabled by default)
-*.bak                       # Abbreviated backup files (Enabled by default)
-*.sql                       # SQL database scripts (Enabled by default)
-*.dump                      # Database dump files (Enabled by default)
-
-# Miscellaneous Secure Files
-*.vault                     # HashiCorp Vault files (Enabled by default)
-.git-credentials            # Git credential storage (Enabled by default)
-
-
-
-#                       2. OS SYSTEM
-
-# System Files
-.DS_Store                   # macOS desktop services store (Enabled by default)
-.AppleDouble                # macOS forked data storage (Enabled by default)
-.LSOverride                 # macOS override settings (Enabled by default)
-Thumbs.db                   # Windows thumbnail cache (Enabled by default)
-*.swp                       # Swap files for text editors (Enabled by default)
-
-
-
-#                       3. LANGUAGE & FRAMEWORK
-
-# Language Specific
-#__pycache__/                # Python bytecode cache
-#*.py[cod]                   # Compiled Python files
-#.venv/                      # Python virtual environments
-
-# Node.js
-#node_modules/               # Node.js modules
-#package-lock.json           # NPM lock file
-#npm-debug.log               # NPM debug log
-#yarn-error.log              # Yarn error log
-
-# Java
-#target/                     # Maven build directory
-#*.jar                       # Java ARchive files
-
-# C and C++
-#*.o                         # Object files
-#*.so                        # Shared libraries
-
-
-
-#                       4. IDE's & EDITORS
-
-# IDE Configuration
-#.idea/                      # JetBrains IDE settings
-#.vscode/                    # Visual Studio Code settings
-#*.sublime-workspace         # Sublime Text workspace
-#*.sublime-project           # Sublime Text project settings
-
-
-
-#                       5. TEMP & MISC
-
-# Temporary Files
-#*.tmp                        # Temporary files
-#*.temp                       # Temp files
-#*.cache                      # Cache files
-#.cache/                      # Cache directory
-#.temp/                       # Temp directory
-#tmp/                         # Temp directory
-#temp/                        # Temp directory
-
-# Build Directories
-#dist/                        # Distribution directory
-#build/                       # Build directory
-#public/                      # Public web directory
-#/public/*                    # Contents of public directory
-#!/public/.gitkeep            # Preserve public directory
-
-# Deployment Scripts
-#run.sh                       # Run script
-#update.sh                    # Update script
-
-# Miscellaneous Files
-#*.map                        # Source maps
-#*.manifest                   # Manifest files
-#*.bak                        # Backup files
-#*.bak.*                      # More backup files
-#*.old                        # Old files
-#*.class                      # Class files
-#sketch.*                     # Sketch design files
-#notes.txt                    # Notes
-#*.md                         # Markdown files
-
-
-
 
 #                   1. SENSITIVE & CONFIGURATIONS
 
