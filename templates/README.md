@@ -3,12 +3,12 @@
 This folder contains a collection of useful templates for various purposes. Templates are organized into subdirectories for better categorization. You are free to use and adapt these templates for your own projects.
 
 ## Available Templates Categorized
-
+Click the pictures to see the preview image better
 #### GitHub Related Templates
 
 **1. .gitignore template for security and flexibility**<br>
     <div>
-        <img src="https://github.com/user-attachments/assets/d0279d86-af46-460d-a8f8-0f6af5649347" alt="template preview"        width="250" style="display:inline-block; vertical-align:middle; margin-left:20px;">
+        <img src="https://github.com/user-attachments/assets/58abdc65-829d-4ff4-83f6-0d36668c4ed5" alt="template preview"        width="150" style="display:inline-block; vertical-align:middle; margin-left:20px;">
     <p>
         This template is designed to efficiently manage what gets tracked in version control across various projects, focusing on          security-sensitive and system-generated files that typically contribute to unnecessary clutter. 
         <a href="https://github.com/D-3-X/Rodent-Repo/tree/main/templates/git">Steal it here</a>.
