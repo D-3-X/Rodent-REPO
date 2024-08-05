@@ -1,5 +1,3 @@
-Certainly! Here’s the revised HTML version of the file with the consolidated **Project Koda** section:
-
 ---
 
 <p>Development Notice: This Repository is under construction. Content may not work, exist, or may change.</p>
@@ -69,18 +67,4 @@ Certainly! Here’s the revised HTML version of the file with the consolidated *
     <li><strong>Project Honey</strong>: An extension to our mousetrap-based intrusion prevention system for counterintelligence.</li>
     <li><strong>Project RodentEye</strong>: An OCR-based monitoring program for intelligence gathering.</li>
 </ul>
-
-<h5>Change Log</h5>
-<a><i>Valuable content added to Rodent Repo will be reflected below</i></a>
-<br>
-<br>
-<blockquote>
-    <li>
-        <lu>Formatting [date] [Action] [short description] [embedded link to content]</lu>
-        Aug 5th 2024: Added - information about <a href="#ProjectKoda">Project Koda</a>
-    </li>
-</blockquote>
-
 ---
-
-Feel free to make any additional adjustments as needed!
