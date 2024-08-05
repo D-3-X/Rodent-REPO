@@ -1,3 +1,4 @@
+
 <p>Development Notice: This Repository is under construction. Content may not work, exist, or may change.</p>
 
 <h2>Rodent-Repo</h2>
@@ -8,15 +9,22 @@
 
 <h4>Content Table</h4>
 <blockquote>
+    <h4>Projects</h4>
+    <a href="#ProjectKoda">Project Koda</a>: Open Source Ai Initiative<br>
+    <a href="#ProjectHoney">Project Honey</a>: SqueakSecure 2.0 with a honeypot redirector<br>
     <h4>Resources</h4>
-    <a href="/templates">Free & Handy Templates </a><br>    
+    <a href="/templates"> Collection of Free templates</a><br>
     <h4>Tools</h4>
     <a href="#RsLogMod">RsLogMod</a>: Python logging module with push notifications<br>
     <a href="#RodentEye">RodentEye</a>: Automated web monitoring using OCR<br>
     <a href="#SqueakSecure">SqueakSecure</a>: Server mousetrap for breach prevention<br>
-    <h4>Projects</h4> 
-    <a href="#ProjectHoney">Project Honey</a>: SqueakSecure 2.0 with a honeypot redirector<br>
-    <a href="#ProjectKoda">Project Koda</a>: Deep learning model<br>
+</blockquote>
+<br>
+<blockquote>
+    <p>Changelog</p>  
+    <li>
+        <lu>Aug 5th: [Added] project information for<a href="#ProjectKoda">Project Koda</a>: Open Source Ai Initiative<br></lu>
+    </li>
 </blockquote>
 <hr>
 <h4>Contribution & How to Get in Touch</h4>
