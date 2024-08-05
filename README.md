@@ -69,7 +69,7 @@
 <h4>Learn More</h4>
 <p>Discover the potential of Koda and its integration with our other projects:</p>
 <ul>
-    <li><strong>Project Honey</strong>: An extension to our mousetrap-based intrusion prevention system for counterintelligence.</li>
+    <li><strong>Project Honey</strong>: An extension to a mousetrap-based intrusion prevention system for counterintelligence.</li>
     <li><strong>Project RodentEye</strong>: An OCR-based monitoring program for intelligence gathering.</li>
 </ul>
 ---
