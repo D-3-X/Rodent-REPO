@@ -19,8 +19,8 @@ Certainly! Here’s the revised HTML version of the file with the consolidated *
     <a href="#RodentEye">RodentEye</a>: Automated web monitoring using OCR<br>
     <a href="#SqueakSecure">SqueakSecure</a>: Server mousetrap for breach prevention<br>
     <h4>Projects</h4> 
-    <a href="#Project Honey">Project Honey</a>: SqueakSecure 2.0 with a honeypot redirector<br>
-    <a href="#Project Koda">Project Koda</a>: Deep learning model<br>
+    <a href="#ProjectHoney">Project Honey</a>: SqueakSecure 2.0 with a honeypot redirector<br>
+    <a href="#ProjectKoda">Project Koda</a>: Deep learning model<br>
 </blockquote>
 <hr>
 <h4>Contribution & How to Get in Touch</h4>
