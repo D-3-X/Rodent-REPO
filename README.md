@@ -77,6 +77,7 @@ Certainly! Here’s the revised HTML version of the file with the consolidated *
 <blockquote>
     <li>
         <lu>Formatting [date] [Action] [short description] [embedded link to content]</lu>
+        Aug 5th 2024: Added - information about <a href="#ProjectKoda">Project Koda</a>
     </li>
 </blockquote>
 
