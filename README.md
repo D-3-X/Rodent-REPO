@@ -11,7 +11,7 @@ Development Notice; this Repository is under construction content may not work, 
     <h4>Ressources</h4>
     <a href="/templates">Free & Handy Templates </a><br>
     <h4>Tools</h4>
-    <a href="#RsLogMod">RsLogMod</a>: Python logging module with push notification functionality<br>
+    <a href="#RsLogMod">RsLogMod</a>: Python logging module with push notifications<br>
     <a href="#RodentEye">RodentEye</a>: Automated web monitoring using OCR<br>
     <a href="#SqueakSecure">SqueakSecure:</a>: Server mousetrap for breach prevention<br>
     <h4>Projects</h4> 
