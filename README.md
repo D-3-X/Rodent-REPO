@@ -3,8 +3,7 @@
 
 <h2>Rodent-Repo</h2>
 <p style="color: grey;">
-    <i>This repository serves as a centralized place for the Rodent Society community to share resources. It is intended to consolidate all content into a manageable hub that guides people to the desired repositories,
-    while also minimizing clutter on the account.</i>
+    <i>This repository serves as a centralized place for the Rodent community to share ressources and showcase on going projects</i>
 </p>
 
 <h4>Content Table</h4>
