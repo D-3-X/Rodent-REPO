@@ -2,8 +2,8 @@
 
 <h2>Rodent-Repo</h2>
 <p style="color: grey;">
-    This repository serves as a centralized place for the Rodent Society community to share resources. It is intended to consolidate all content into a manageable hub that guides people to the desired repositories,
-    while also minimizing clutter on the account.
+    <i>This repository serves as a centralized place for the Rodent Society community to share resources. It is intended to consolidate all content into a manageable hub that guides people to the desired repositories,
+    while also minimizing clutter on the account.</i>
 </p>
 
 <h4>Content Table</h4>
@@ -20,28 +20,29 @@
     <a href="#Project Cheese Cache">Project Cache Squirrel</a>
 </blockquote>
 <hr>
-
-<h2>Contribution & How to Get in Touch</h2>
+<h4>Contribution & How to Get in Touch</h4>
 <p>
-    If you have any suggestions or improvements, you can make a pull request, open an issue, or pitch it directly.
+    <i>If you have any suggestions or improvements, you can make a pull request, open an issue, or pitch it directly.</i>
 </p>
 <p>
-    If you have any questions or just wanna say cheese pops, there are several ways to get in touch if GitHub doesn't cut it:
+    <i>If you have any questions or just wanna say cheese pops, there are several ways to get in touch if GitHub doesn't cut it:</i>
 </p>
 <ul>
     <li>Discord: l.l.l.lllll.llll.lll.l.l.lll.l.l</li>
     <li>Reddit: <a href="https://www.reddit.com/u/Rodent_Dex/">Rodent_Dex</a></li>
 </ul>
 
-<h2>License Information</h2>
+<h4>License Information</h4>
 <p>
     This repository contains various types of content, each governed by different licenses. Please refer to the information provided in the individual subdirectories or file header text.
 </p>
 
-<h2>Change Log</h2>
-Any Valuable Content Added To Rodent Repo Wil Be Reflected Below
+<h5>Change Log</h5>
+<a><i>Valuable Content Added To Rodent Repo Wil Be Reflected Below</i></a>
+<br>
+<br>
 <blockquote>
-<code>
-    test
-</code>
+       <li>
+         <lu>Formatting [date] [Action] [short description] [embeeded link to content]</lu>
+       </li>
 </blockquote>
