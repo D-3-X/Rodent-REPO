@@ -15,7 +15,7 @@
     <a href="/templates"> Collection of Free templates</a><br>
     <h4>Tools</h4>
     <a href="#RsLogMod">RsLogMod</a>: Python logging module with push notifications<br>
-    <a href="#RodentEye">RodentEye</a>: Automated web monitoring using OCR<br>
+    <a href="#RodentEye">RodentEye</a>: Monitoring using OCR for image to text processing<br>
     <a href="#SqueakSecure">SqueakSecure</a>: Server mousetrap for breach prevention<br>
 </blockquote>
 <br>
