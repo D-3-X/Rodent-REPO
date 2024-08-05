@@ -28,7 +28,7 @@ If you have any suggestions or improvements, you can: make a push request, open 
 If you have any questions or just wanna say cheese pops, There's several ways to get in touch if github doesn't cut it.
 
 Discord: l.l.l.lllll.llll.lll.l.l.lll.l.l<br>
-<a href="https://www.reddit.com/u/Rodent_Dex/">Rodent_Dex
+Reddit: <a href="https://www.reddit.com/u/Rodent_Dex/">Rodent_Dex</a>
 ## License Information 
 
 This repository contains various types of content, each governed by different licenses. Please refer to the information provided
