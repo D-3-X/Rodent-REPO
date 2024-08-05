@@ -1,9 +1,9 @@
 
 <p>Development Notice: This Repository is under construction. Content may not work, exist, or may change.</p>
 
-<h2>Rodent-Repo</h2>
+<h2>RodentSociety-Repo</h2>
 <p style="color: grey;">
-    <i>This repository serves as a centralized place for the Rodent community to share ressources and showcase on going projects</i>
+    <i>This repository serves as a centralized place to find ressources and showcase on going projects</i>
 </p>
 
 <h4>Content Table</h4>
