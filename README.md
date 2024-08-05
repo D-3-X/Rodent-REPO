@@ -22,7 +22,7 @@
 <blockquote>
     <p>Changelog</p>  
     <li>
-        <lu>Aug 5th: [Added] project information for<a href="#ProjectKoda">Project Koda</a>: Open Source Ai Initiative<br></lu>
+        <lu>Aug 5th: [Added] project information for<a href="#ProjectKoda"> Project Koda</a>: Open Source Ai Initiative<br></lu>
     </li>
 </blockquote>
 <hr>
