@@ -1,15 +1,14 @@
 Development Notice; this Repository is under construction content may not work, exist, or may change.
 <h2>Rodent-Repo</h2>
 <p style="color: grey;">
-    This repository serves as a centralized place for the Rodent Society community to share resources.
-    It is intended to consolidate all content into a manageable hub that guides people to the desired repositories,
+    This repository serves as a centralized place for the Rodent Society community to share resources. Intended to consolidate all content into a manageable hub that guides people to the desired repositories,
     while also minimizing clutter on the account.
 </p>
 <h4>Content Table</h4>
 
 <blockquote>
     <h4>Ressources</h4>
-    <a href="/templates">Free & Handy Templates </a><br>
+    <a href="/templates">Free & Handy Templates </a><br>    
     <h4>Tools</h4>
     <a href="#RsLogMod">RsLogMod</a>: Python logging module with push notifications<br>
     <a href="#RodentEye">RodentEye</a>: Automated web monitoring using OCR<br>
@@ -24,7 +23,7 @@ Development Notice; this Repository is under construction content may not work, 
 
 ## Contribution & How to get in touch
 
-Feel free to fork this repository. If you have suggestions or improvements, please submit a pull request. Or pitch it to us directly.
+If you have any suggestions or improvements, you can: make a push request, open an issue, or pitch it directly.
 
 If you have any questions or just wanna say cheese pops, There's several ways to get in touch if github doesn't cut it.
 
