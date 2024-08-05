@@ -8,11 +8,17 @@ Development Notice; this Repository is under construction content may not work, 
 <h4>Content Table</h4>
 
 <blockquote>
-    - <a href="#rodent-society-community--website">Rodent Society Community & Website </a> (not added) <br>
-    - <a href="https://github.com/D-3-X/Rodent-Repo/tree/main/templates">Free & Handy Templates </a><br>
-    - <a href="#rslogmod"> RsLogMod Tool </a> (not added) <br>
-    - <a href="#kodaai"> KodaAi Showcasing </a> (not added) <br>
-    - <a href="#squeaksecure">SqueakSecure Showcasing</a> (not added) <br>
+    <h4>Ressources</h4>
+    <a href="/templates">Free & Handy Templates </a><br>
+    <h4>Tools</h4>
+    <a href="#RsLogMod">RsLogMod</a>: Python logging module with push notification functionality<br>
+    <a href="#RodentEye">RodentEye</a>: Automated web monitoring using OCR<br>
+    <a href="#SqueakSecure">SqueakSecure:</a>: Server mousetrap for breach prevention<br>
+    <h4>Projects</h4> 
+    <a href="#SqueakSecure 2.0">Project Honey</a>: SqueakSecure 2.0 with a honeypot redirector<br>
+    <a href="#Project Koda">Project Koda</a>: Ai deep learning on CVE data from 1999-2024.
+    <a href="#Project Cheese Cache"></a>
+    <br>
 </blockquote>
 <hr>
 
