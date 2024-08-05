@@ -16,9 +16,10 @@
     <h4>Tools</h4>
     <a href="#RsLogMod">RsLogMod</a>: Python logging module with push notifications<br>
     <a href="#RodentEye">RodentEye</a>: Monitoring using OCR for image to text processing<br>
-    <a href="#SqueakSecure">SqueakSecure</a>: Server mousetrap for breach prevention
-    <br>
-    <p>Changelog</p>  
+    <a href="#SqueakSecure">SqueakSecure</a>: Server mousetrap for breach prevention<br>
+    <h5>
+Changelog
+</h5>  
     <li>
         <lu>
             Aug 5th: [Added] project information for<a href="#ProjectKoda"> Project Koda</a>: Open Source Ai Initiative<br><br>
