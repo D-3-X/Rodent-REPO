@@ -16,7 +16,8 @@
     <a href="#RsLogMod">RsLogMod</a>: Python logging module<br>
     <h5>Changelog</h5>  
     <ul>
-        <li>Aug 12th: <strong>[Release]</strong><a href="#RsLogMod"> RsLogMod</a>: released on pypi<br><br></li>
+        <li>Oct 13th: <strong>[Update]</strong><a href="https://github.com/D-3-X/RsLogMod"> RsLogMod</a>: v1.0.2<br><br></li>
+        <li>Aug 12th: <strong>[Release]</strong><a href="https://github.com/D-3-X/RsLogMod"> RsLogMod</a>: released on pypi<br><br></li>
         <li>Aug 5th: <strong>[Added]</strong> project information for <a href="#ProjectKoda">Project Koda</a>: Open Source AI Initiative<br><br></li>
     </ul>
 </blockquote>
